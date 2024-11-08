@@ -1,0 +1,1 @@
+# Example of using AWS test tools with Lambda HTTP Adapter
